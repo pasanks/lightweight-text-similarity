@@ -1,5 +1,5 @@
 {
-  "name": "pasankavinga/text-similarity",
+  "name": "pasanks/lightweight-text-similarity",
   "description": "Lightweight TF cosine similarity + evidence snippet helper.",
   "type": "library",
   "license": "MIT",
