@@ -1,0 +1,27 @@
+{
+  "name": "pasankavinga/text-similarity",
+  "description": "Lightweight TF cosine similarity + evidence snippet helper.",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^8.2"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^11.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pasanks\\TextSimilarity\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Pasanks\\TextSimilarity\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
