@@ -1,0 +1,22 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPUnit
+/.phpunit.cache
+/.phpunit.result.cache
+
+# IDEs / Editors
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary / cache
+/tmp/
+/.cache/
+
+# Coverage (if enabled later)
+coverage/
